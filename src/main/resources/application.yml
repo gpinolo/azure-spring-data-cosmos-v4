@@ -1,0 +1,10 @@
+
+# ===================================================================
+# Azure Cosmos properties.
+# ===================================================================
+azure:
+  cosmos:
+    uri: 'REPLACE_WITH_INSTANCE_URI'
+    key: 'REPLACE_WITH_MASTER_KEY'
+    database: 'patient'
+
